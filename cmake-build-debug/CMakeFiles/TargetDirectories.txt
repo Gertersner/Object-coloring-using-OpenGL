@@ -1,0 +1,6 @@
+C:/Users/blake/Documents/assignment04/cmake-build-debug/CMakeFiles/01-more-shapes.dir
+C:/Users/blake/Documents/assignment04/cmake-build-debug/CMakeFiles/02-animation.dir
+C:/Users/blake/Documents/assignment04/cmake-build-debug/CMakeFiles/03-world-coloring.dir
+C:/Users/blake/Documents/assignment04/cmake-build-debug/CMakeFiles/04-object-coloring.dir
+C:/Users/blake/Documents/assignment04/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/blake/Documents/assignment04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
